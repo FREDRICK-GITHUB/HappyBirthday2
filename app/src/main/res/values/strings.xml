@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Birthday!!</string>
+
+    <string name="from_fred">From Lovely Fred</string>
+    <string name="show_image">show image</string>
+    <string name="happy_birthday">Happy Birthday Dear Friend!!!</string>
+    <string name="happy_too">You are a year closer to your dreams.</string>
+</resources>
